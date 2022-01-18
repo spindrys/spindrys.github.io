@@ -7,7 +7,7 @@ headerTemplate.innerHTML = `
 <div class="nav-wrapper">
           <div class="left">
             <div class="nav-link-wrapper">
-              <a href="index.html">Home</a>
+              <a href="./">Home</a>
             </div>
             <div class="nav-link-wrapper">
               <a href="about.html">About</a>

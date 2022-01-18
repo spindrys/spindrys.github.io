@@ -98,3 +98,18 @@ body {
   transition: 1s;
   filter: brightness(10%);
 }
+
+/* About page */
+
+.about {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.pfp-wrapper img {
+  width: 100%;
+}
+
+.about-me-wrapper {
+  padding: 30px;
+}
